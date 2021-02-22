@@ -2,9 +2,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jctaoo&" alt="jctaoo" /></p>
 
-I'm a student from China with a passion for full stack development. Recently I am learning Rust, algorithms and compilation principles, and I am developing interesting open source software in 🚀fusée code lab.
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+I'm a student from China with a passion for full stack development. Recently I am learning Rust, algorithms and compilation principles, and I am developing interesting open source software in 🚀fusée code lab.
 
 - 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace) and [ting](https://github.com/fusee-code-lab/ting-desktop) (You may like it 🌟)
 - 🌱 I’m currently learning **Rust**
