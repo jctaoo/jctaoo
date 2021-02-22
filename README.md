@@ -2,9 +2,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jctaoo&" alt="jctaoo" /></p>
 
-I'm a student from China with a passion for full stack development. Recently I am learning Rust, algorithms and compilation principles, and I am developing interesting open source software in 🚀fusée code lab.
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+I'm a student from China with a passion for full stack development. Recently I am learning Rust, algorithms and compilation principles, and I am developing interesting open source software in 🚀fusée code lab.
 
 - 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace) and [ting](https://github.com/fusee-code-lab/ting-desktop) (You may like it 🌟)
 - 🌱 I’m currently learning **Rust**
@@ -15,13 +15,13 @@ I'm a student from China with a passion for full stack development. Recently I a
 
 - 💻 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Golang](https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+- 📱 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
+![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
 - 🔧 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
