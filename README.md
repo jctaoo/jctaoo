@@ -1,4 +1,4 @@
-# Hi 👋, I'm jctaooh1>
+# Hi 👋, I'm jctaoo
 ## A high schooler from China with a passion for full stack development.
 
 - 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace)
