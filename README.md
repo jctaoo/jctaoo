@@ -1,11 +1,11 @@
 # Hi 👋, I'm jctaoo
-## A high schooler from China with a passion for full stack development.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jctaoo&" alt="jctaoo" /></p>
 
-- 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace)
+I'm a student from China with a passion for full stack development. Recently I am learning Rust, algorithms and compilation principles, and I am developing interesting open source software in 🚀fusée code lab.
+
+- 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace) and [ting](https://github.com/fusee-code-lab/ting-desktop)
 - 🌱 I’m currently learning **Rust**
-- 👯 I’m looking to collaborate on [ting](https://github.com/fusee-code-lab/ting-desktop)
 - 💬 Ask me about **React & Vue, iOS Development, JavaScript & TypeScript, Node.js & Golang**
 - 📫 How to reach me **jctaoo@outlook.com**
 
