@@ -38,5 +38,3 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jctaoo&show_icons=true&locale=en&layout=compact" alt="jctaoo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true&locale=en" alt="jctaoo" /></p>
