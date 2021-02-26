@@ -39,4 +39,4 @@ I'm a student from China with a passion for full stack development. Recently I a
 ![TravisCI](https://img.shields.io/badge/-TravisCI-black?style=flat-square&logo=travis)
 - 🎨 ![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jctaoo&show_icons=true&locale=en&layout=compact" alt="jctaoo" /></p>
+<p><img align="left" src="https://github-readme-stats-xi-flax.vercel.app//api/top-langs?username=jctaoo&show_icons=true&locale=en&layout=compact" alt="jctaoo" /></p>
