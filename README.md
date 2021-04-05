@@ -1,5 +1,8 @@
 # Hi 👋, I'm jctaoo
 
+
+<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true&theme=radical" alt="jctaoo" /></center>
+
 <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jctaoo&" alt="jctaoo" /></center>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
