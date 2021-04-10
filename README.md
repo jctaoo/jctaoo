@@ -37,6 +37,7 @@ struct Jctaoo: Boy, Student, Developer {
 mail(to: Jctaoo.unique)
 
 ```
+[run result](./result.md)
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats-xi-flax.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false&title_color=FABF26&icon_color=F8D765"/>
