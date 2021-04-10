@@ -2,9 +2,6 @@
   <img width="460" src="https://user-images.githubusercontent.com/42663875/114281093-ef7da100-9a6e-11eb-85b4-16374424bf42.png" alt="jctaoo">
 </p>
 
-
-I'm a high school student from China with a passion for developing some interesting programs and fascinated by everything that's CS related. 
-
 ```swift
 struct Jctaoo: Boy, Student, Developer {
     var email: String {
