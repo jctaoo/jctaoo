@@ -10,7 +10,7 @@ struct Jctaoo: Boy, Student, Developer {
     var email: String {
         "jctaoo@outlook.com"
     }
-
+    
     static let unique = Jctaoo()
     private init() {}
     
@@ -19,7 +19,11 @@ struct Jctaoo: Boy, Student, Developer {
     }
     
     func sayHi() {
-        "👋 Hi there, I'm jctaoo.".announce()
+        """
+        👋 Hi there, I'm jctaoo.
+           A high school student from China with a passion for developing some
+           interesting programs and fascinated by everything that's CS related.
+        """.announce()
         focusing(on: "Swift Student Challenage").say()
         work(in: "🚀fusée code lab", to: "make fantastic open-source programs").say()
         recently {
@@ -34,6 +38,7 @@ struct Jctaoo: Boy, Student, Developer {
 }
 
 mail(to: Jctaoo.unique)
+
 ```
 
 <p>
