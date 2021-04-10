@@ -3,12 +3,38 @@
 </p>
 
 
-I'm a student from China with a passion for full stack development. Recently I am focusing on Swift Student Challenge, learning Algorithms and Compilation Principles, and I am developing interesting open source software in 🚀fusée code lab.
+I'm a high school student from China with a passion for developing some interesting programs and fascinated by everything that's CS related. 
 
-- 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace) and [ting](https://github.com/fusee-code-lab/ting-desktop) (You may like it 🌟)
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **React & Vue, iOS Development, JavaScript & TypeScript, Node.js & Golang**
-- 📫 How to reach me **jctaoo@outlook.com**
+```swift
+struct Jctaoo: Boy, Student, Developer {
+    var email: String {
+        "jctaoo@outlook.com"
+    }
+
+    static let unique = Jctaoo()
+    private init() {}
+    
+    var mostInterestLangs: [Language] {
+        [.swift, .typeScript]
+    }
+    
+    func sayHi() {
+        "👋 Hi there, I'm jctaoo.".announce()
+        focusing(on: "Swift Student Challenage").say()
+        work(in: "🚀fusée code lab", to: "make fantastic open-source programs").say()
+        recently {
+            learning {
+                "Algorithms"
+                "Compilation Principles"
+            }
+        }.say()
+        bigFans(to: "Detective Conan").say()
+        "✨ See my pined project below, you may lik these.".happyToSay()
+    }
+}
+
+mail(to: Jctaoo.unique)
+```
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats-xi-flax.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false&title_color=FABF26&icon_color=F8D765"/>
