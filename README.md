@@ -29,4 +29,16 @@
 ![TravisCI](https://img.shields.io/badge/-TravisCI-black?style=flat-square&logo=travis)
 - 🎨 ![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
 
-<p><img align="center" align="right" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true" alt="jctaoo" /></p>
+<p>
+  <img 
+       align="left" 
+       src="https://github-readme-stats-xi-flax.vercel.app/api/top-langs?layout=compact&langs_count=15&locale=en&username=jctaoo&show_icons=true" 
+       alt="jctaoo" 
+  />
+  <img 
+       align="center" 
+       align="right" 
+       src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true" 
+       alt="jctaoo" 
+  />
+</p>
