@@ -1,33 +1,48 @@
-<cnter><img align="center" height="200" src="https://user-images.githubusercontent.com/42663875/114281093-ef7da100-9a6e-11eb-85b4-16374424bf42.png" alt="jctaoo" /></center>
+<p align="center">
+  <img width="460" src="https://user-images.githubusercontent.com/42663875/114281093-ef7da100-9a6e-11eb-85b4-16374424bf42.png" alt="jctaoo">
+</p>
+
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats-xi-flax.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false&title_color=FABF26&icon_color=F8D765"/>
+  <p>
+    <img src="https://img.shields.io/badge/-Swift-f9943a?style=flat-square&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Dart-23A9F2?style=flat-square&logo=dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Kotlin-FF9736?style=flat-square&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Golang-07acd7?style=flat-square&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-244a6c?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nodejs-74ad63?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Electron-2b2f3b?style=flat-square&logo=electron&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gatsby-633294?style=flat-square&logo=gatsby&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Realm-59579d?style=flat-square&logo=realm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Redis-be2019?style=flat-square&logo=Redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MongoDB-3ea546?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-0a68af?style=flat-square&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Nginx-419b44?style=flat-square&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-TravisCI-9b2328?style=flat-square&logo=travis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=sketch&logoColor=white"/>
+  </p>
+</p>
+<p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<cnter></center>
 
-- 📱 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
-![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
-- 💻 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Golang](https://img.shields.io/badge/-Golang-white?style=flat-square&logo=go)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-- 🔧 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Electron](https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
-- 🛢️ ![Realm](https://img.shields.io/badge/-Realm-black?style=flat-square&logo=realm)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-white?style=flat-square&logo=nginx)
-![TravisCI](https://img.shields.io/badge/-TravisCI-black?style=flat-square&logo=travis)
-- 🎨 ![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
+I'm a student from China with a passion for full stack development. Recently I am focusing on Swift Student Challenge, learning Algorithms and Compilation Principles, and I am developing interesting open source software in 🚀fusée code lab.
+
+- 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace) and [ting](https://github.com/fusee-code-lab/ting-desktop) (You may like it 🌟)
+- 🌱 I’m currently learning **Rust**
+- 💬 Ask me about **React & Vue, iOS Development, JavaScript & TypeScript, Node.js & Golang**
+- 📫 How to reach me **jctaoo@outlook.com**
 
 <p>
   <img 
