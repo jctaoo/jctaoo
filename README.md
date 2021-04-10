@@ -12,7 +12,7 @@ struct Jctaoo: Boy, Student, Developer {
     private init() {}
     
     var mostInterestLangs: [Language] {
-        [.swift, .typeScript]
+        [.swift, .rust]
     }
     
     func sayHi() {

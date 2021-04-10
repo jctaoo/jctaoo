@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>Diff</key>
-	<array>
-		<dict>
-			<key>ModifiedContent</key>
-			<string>import Foundation
+import Foundation
 
 @_functionBuilder
 public struct StringBuilder {
-    public static func buildBlock(_ components: String...) -&gt; String {
+    public static func buildBlock(_ components: String...) -> String {
         components.joined(separator: "\n")
     }
 }
 
 @_functionBuilder
 public struct LearingBuilder {
-    public static func buildBlock(_ components: String...) -&gt; String {
+    public static func buildBlock(_ components: String...) -> String {
         let prefix = "📖 I'm recently learning:\n"
         let items = components.map {
             "\t- \($0)"
@@ -33,23 +25,23 @@ enum Language {
     case rust
 }
 
-func bigFans(to name: String) -&gt; String {
+func bigFans(to name: String) -> String {
     "⚡️ I'm big fans of \(name)"
 }
 
-func work(in name: String, to reason: String) -&gt; String {
+func work(in name: String, to reason: String) -> String {
     "💻 I'm currently work in \(name) to \(reason)."
 }
 
-func focusing(on name: String) -&gt; String {
+func focusing(on name: String) -> String {
     "📒 Focusing on \(name)..."
 }
 
-func recently(@StringBuilder _ block: () -&gt; String) -&gt; String {
+func recently(@StringBuilder _ block: () -> String) -> String {
     block()
 }
 
-func learning(@LearingBuilder _ block: () -&gt; String) -&gt; String {
+func learning(@LearingBuilder _ block: () -> String) -> String {
     block()
 }
 
@@ -68,7 +60,7 @@ extension String {
 
 protocol Person {
     var email: String { get }
-    func sayHi() -&gt; Void
+    func sayHi() -> Void
 }
 
 
@@ -98,7 +90,7 @@ struct Jctaoo: Boy, Student, Developer {
     private init() {}
     
     var mostInterestLangs: [Language] {
-        [.swift, .typeScript]
+        [.swift, .rust]
     }
     
     func sayHi() {
@@ -121,17 +113,3 @@ struct Jctaoo: Boy, Student, Developer {
 }
 
 mail(to: Jctaoo.unique)
-</string>
-			<key>ModifiedRange</key>
-			<string>{0, 2328}</string>
-			<key>OriginalContent</key>
-			<string>
-</string>
-			<key>OriginalRange</key>
-			<string>{0, 1}</string>
-		</dict>
-	</array>
-	<key>File</key>
-	<string>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</string>
-</dict>
-</plist>
