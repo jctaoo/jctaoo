@@ -1,18 +1,6 @@
-# Hi 👋, I'm jctaoo
-
+<cnter><img align="center" height="200" src="https://user-images.githubusercontent.com/42663875/114281093-ef7da100-9a6e-11eb-85b4-16374424bf42.png" alt="jctaoo" /></center>
 
 <center><img align="center" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true&theme=radical" alt="jctaoo" /></center>
-
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jctaoo&" alt="jctaoo" /></center>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-I'm a student from China with a passion for full stack development. Recently I am learning Rust, algorithms and compilation principles, and I am developing interesting open source software in 🚀fusée code lab.
-
-- 🔭 I’m currently working on [enlace](https://github.com/jctaoo/enlace) and [ting](https://github.com/fusee-code-lab/ting-desktop) (You may like it 🌟)
-- 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **React & Vue, iOS Development, JavaScript & TypeScript, Node.js & Golang**
-- 📫 How to reach me **jctaoo@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
