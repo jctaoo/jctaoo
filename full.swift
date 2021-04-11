@@ -1,5 +1,3 @@
-import Foundation
-
 @_functionBuilder
 public struct StringBuilder {
     public static func buildBlock(_ components: String...) -> String {
