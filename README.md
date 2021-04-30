@@ -45,6 +45,7 @@ mail(to: Jctaoo.unique)
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats-xi-flax.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false"/>
   <p>
+    <img src="https://img.shields.io/badge/-Rust-a72145?style=flat-square&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Swift-f9943a?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dart-23A9F2?style=flat-square&logo=dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Kotlin-FF9736?style=flat-square&logo=kotlin&logoColor=white"/>
