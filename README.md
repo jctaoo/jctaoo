@@ -43,7 +43,7 @@ mail(to: Jctaoo.unique)
 [run result](./result.md)
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats-xi-flax.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false"/>
   <p>
     <img src="https://img.shields.io/badge/-Rust-a72145?style=flat-square&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Swift-f9943a?style=flat-square&logo=swift&logoColor=white"/>
