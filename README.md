@@ -73,4 +73,11 @@ mail(to: Jctaoo.unique)
   </p>
 </p>
 <p>
-  
+
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jctaoo&layout=compact&hide=SCSS,HTML,Vim%20script,CSS,Makefile" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=jctaoo&layout=compact&range=last_7_days" />
+</a>
