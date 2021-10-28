@@ -34,6 +34,7 @@ struct Jctaoo: Boy, Student, Developer {
             }
         }.say()
         bigFans(to: "Detective Conan").say()
+        ❤(with: 🍊, when: "2021-10-27")
         "✨ See my pined project below, you may lik these.".happyToSay()
     }
 }
