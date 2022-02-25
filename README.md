@@ -7,7 +7,7 @@
 
 
 ```swift
-struct Jctaoo: Boy, Student, Developer {
+struct Jctaoo: Boy, Developer {
     var email: String {
         "jctaoo@outlook.com"
     }
