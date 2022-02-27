@@ -5,6 +5,10 @@
 </p>
 
 
+<p align="center">
+  <img width="460" src="./wrapped_jctaoo.png" alt="jctaoo">
+</p>
+
 
 ```swift
 struct Jctaoo: Boy, Developer {
