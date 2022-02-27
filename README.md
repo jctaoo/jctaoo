@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="460" src="./wrapped_jctaoo.png" alt="jctaoo">
+  <img src="./wrapped_jctaoo.png" alt="jctaoo">
 </p>
 
 
