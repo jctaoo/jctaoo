@@ -1,46 +1,6 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=jctaooprofile.jctaooprofile"/>
-
 <p align="center">
   <img width="460" src="https://user-images.githubusercontent.com/42663875/114281093-ef7da100-9a6e-11eb-85b4-16374424bf42.png" alt="jctaoo">
 </p>
-
-
-<p align="center">
-  <img src="./wrapped_jctaoo.png" alt="jctaoo">
-</p>
-
-
-```swift
-struct Jctaoo: Boy, Developer {
-    var email: String {
-        "jctaoo@outlook.com"
-    }
-    
-    static let unique = Jctaoo()
-    private init() {}
-    
-    var mostInterestLangs: [Language] {
-        [.swift, .rust]
-    }
-    
-    func sayHi() {
-        work(in: "🚀fusée code lab", to: "make fantastic open-source programs").say()
-        recently {
-            learning {
-                "Algorithms"
-                "Compilation Principles"
-            }
-        }.say()
-        bigFans(to: "Detective Conan").say()
-        ❤(with: 🍊, when: "2021-10-27")
-        "✨ See my pined project below, you may lik these.".happyToSay()
-    }
-}
-
-mail(to: Jctaoo.unique)
-
-```
-[run result](./result.md)
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false"/>
