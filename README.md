@@ -3,8 +3,11 @@
 </p>
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=jctaoo&show_icons=true&hide_border=false"/>
-  <p>
+  <img align="left" src="https://github-readme-stats-jc.vercel.app/api?username=jctaoo&show_icons=true&theme=transparent&card_width=380px"/>
+  <img align="left" src="https://github-readme-stats-jc.vercel.app/api/top-langs?username=jctaoo&layout=compact&hide=SCSS,HTML,Vim%20script,CSS,Makefile,Shell&langs_count=8&cache_seconds=0&exclude_owner=jctaoo-archive&theme=transparent&card_width=380px"/>
+</p>
+
+<p>
     <img src="https://img.shields.io/badge/-Rust-a72145?style=flat-square&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Swift-f9943a?style=flat-square&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Dart-23A9F2?style=flat-square&logo=dart&logoColor=white"/>
@@ -32,5 +35,3 @@
     <img src="https://img.shields.io/badge/-TravisCI-9b2328?style=flat-square&logo=travis&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=sketch&logoColor=white"/>
   </p>
-</p>
-<p>
